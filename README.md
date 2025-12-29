@@ -2,8 +2,7 @@
 # learning_garage
 
 Hey there, 
-Welcome to my garage. A living learning place where I store, tinker, edit, map, test, and refine ideas, documents, learning aids.  
-This repo captures handy basic documents, how a complex topic can be understood and define a solution and everything in between. Starting with no structure, hand written notes, then turning those ideas into hands-on work.
+Welcome to my digital garage. I document my learnings. Mind maps, projects, cheat sheets...
 
 ## Start here
 ### AI/ML App Journey. Code → Train → Deploy
