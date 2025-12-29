@@ -2,7 +2,7 @@
 # learning_garage
 
 Hey there, 
-Welcome to my digital garage. I document my learnings. Mind maps, projects, cheat sheets...
+Welcome to my digital garage where I document my learnings. Mind maps, projects, cheat sheets...
 
 ## Start here
 ### AI/ML App Journey. Code → Train → Deploy
