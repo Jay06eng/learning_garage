@@ -2,6 +2,7 @@
 # learning_garage
 
 Hey there, 
+
 Welcome to my digital garage where I document my learnings. Mind maps, projects, cheat sheets...
 
 ## Start here
