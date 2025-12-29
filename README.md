@@ -1,11 +1,11 @@
 
-# learning_garage
+# learning_garage  🚗🔧
 
 Hey there, 
 
-Welcome to my digital garage where I document my learnings. Mind maps, projects, cheat sheets...
+Welcome to my digital garage where I document my learnings. In here I keep mind maps, project notes, cheat sheets and anything I have or I'm working on at the moment.
 
-## Start here
+## Start here 🚀
 ### AI/ML App Journey. Code → Train → Deploy
 This mind map will help you as a roadmap to start your AI_ML journey. Enjoy ! 
 
